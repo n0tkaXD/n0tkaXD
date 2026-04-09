@@ -1,4 +1,4 @@
-# Hi there, I'm n0tkaXD! 👋 / 初めまして、n0tkaXD です！
+[# Hi there, I'm n0tkaXD! 👋 / 初めまして、n0tkaXD です！
 
 
 ---
@@ -40,3 +40,4 @@ I'm a developer focused on building efficient tools, automation, and network tec
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=n0tkaXD&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+](https://i.pinimg.com/originals/2c/3b/16/2c3b1622fc8af74d58e15af2d6429543.gif)
