@@ -1,9 +1,5 @@
 # Hi there, I'm n0tkaXD! 👋 / 初めまして、n0tkaXD です！
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n0tkaXD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="n0tkaXD's Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0tkaXD&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" height="170" />
-</p>
 
 ---
 
