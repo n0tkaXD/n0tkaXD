@@ -4,11 +4,6 @@
   <img src="https://i.pinimg.com/originals/2c/3b/16/2c3b1622fc8af74d58e15af2d6429543.gif" width="600">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=n0tkaXD&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0tkaXD&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</p>
-
 ---
 
 ### 🌐 English
